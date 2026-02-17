@@ -3,7 +3,7 @@
 
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Wave" width="35" /> Hey, I'm Yash Pagdhare
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=2D9EF7&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=100&lines=Full+Stack+Developer;MERN+Stack+Specialist" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2000&color=2D9EF7&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=100&lines=Full+Stack+Developer;MERN+Stack+Specialist" alt="Typing SVG" />
 
 **Building scalable web applications with clean architecture**  
 🎓 Computer Engineering Graduate | 🏠 Pune, India | 💼 Open to Full-Time Roles
